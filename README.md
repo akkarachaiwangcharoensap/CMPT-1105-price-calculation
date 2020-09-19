@@ -1,4 +1,4 @@
-# CMPT 1105 Price Calculation
+# CMPT 1105 | Price Calculation
 
 A Python example of user input, data type conversion, math operations, and formatting a string.
 
